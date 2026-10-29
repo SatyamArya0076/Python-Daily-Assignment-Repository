@@ -1,2 +1,2 @@
-# Assignment-Repository
-Daily Assignment 
+# Python Assignment-Repository
+Python Daily Assignment 
